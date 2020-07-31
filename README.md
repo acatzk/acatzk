@@ -8,20 +8,14 @@ My name is Joshua, I am a Web Developer and IT Professional over 4+ Years. Most 
 
  🔭 Anyway I'm currently working at GitHub.
 
- 👯 I'm looking for funds to finish my compiler project. Please contact me if you are interested.
-
- ⚡ Fun fact: My life are spend for developing softwares and most of my programs are here at [**GitHub**](https://github.com/acatzk?tab=repositories)!
+ 👯 I'm looking for funds to finish my business project. Please contact me if you are interested.
   
- 📫 Sending Email for cooperation purposes: joshuaimalay [@] Gmail {.DOT.} com
- 
 
 **Welcome to my profile, You can follow me if my works are interest.**
 
-[![GitHub Status](https://github-readme-stats.vercel.app/api?username=BaseMax&&show_icons=true&theme=tokyonight)](https://maxbase.org)
+If you want to write about me, you can change [this text](https://github.com/acatzk/acatzk), this is your chance. I thank you
 
-If you want to write about me, you can change [this text](https://github.com/BaseMax/BaseMax), this is your chance. I thank you
-
-🤔 Want to have views counter in your profile page? Take [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter) for the quick start.
+🤔 Want to have views counter in your profile page? Take [GitHub Profile Views Counter](https://github.com/acatzk/github-profile-views-counter) for the quick start.
 
 <!--
 
