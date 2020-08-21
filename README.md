@@ -6,7 +6,7 @@ My name is Joshua, I am a Web Developer and IT Professional over 4+ Years. Most 
 
  🔭 Anyway I'm currently working in my business website
  
- 🌱 I’m currently learning in vuejs and hasura graphql for backend dev
+ 🌱 I’m currently learning in backend infrastructure for small businesses
 
  👯 I'm looking for funds to finish my business project. Please contact me if you are interested
  
@@ -17,7 +17,7 @@ My name is Joshua, I am a Web Developer and IT Professional over 4+ Years. Most 
 
 **Welcome to my profile, You can follow me if my works are interest.**
 
-<a href="https://github.com/acatzk"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acatzk&theme=tokyonight" /></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=acatzk&&show_icons=true&theme=tokyonight)](https://maxbase.org)
+<a href="https://github.com/acatzk"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acatzk&theme=tokyonight&hide=css,html,php" /></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=acatzk&&show_icons=true&theme=tokyonight)](https://maxbase.org)
 
 <!--
 
