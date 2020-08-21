@@ -17,9 +17,11 @@ My name is Joshua, I am a Web Developer and IT Professional over 4+ Years. Most 
 
 **Welcome to my profile, You can follow me if my works are interest.**
 
-<a href="https://github.com/acatzk"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acatzk&theme=tokyonight&hide=css,html,php" /></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=acatzk&&show_icons=true&theme=tokyonight&line_height=27)](https://maxbase.org)
+<a href="https://github.com/acatzk"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acatzk&theme=default&hide=css,html,php" /></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=acatzk&&show_icons=true&theme=default&line_height=27)](https://maxbase.org)
 
 <!--
+
+theme=tokyonight
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
