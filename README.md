@@ -17,7 +17,7 @@ My name is Joshua, I am a Web Developer and IT Professional over 4+ Years. Most 
 
 **Welcome to my profile, You can follow me if my works are interest.**
 
-[![GitHub Status](https://github-readme-stats.vercel.app/api?username=acatzk&&show_icons=true&theme=tokyonight)](https://maxbase.org)
+<a href="https://github.com/acatzk"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acatzk&theme=default&hide=css,vue,html" /></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=acatzk&&show_icons=true&theme=tokyonight)](https://maxbase.org)
 
 <!--
 
