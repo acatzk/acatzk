@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello, everyone! 👋
 
 My name is Joshua, I am a Web Developer and IT Professional over 4+ Years. Most of my project are built in VUEJS and HASURA Graphql for backend. I am looking for professional to whom i can learn with and collab for business purposes.
 
