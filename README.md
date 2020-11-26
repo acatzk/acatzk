@@ -1,22 +1,3 @@
-# Hello, everyone! 👋
-
-My name is Joshua, I am a Web Developer and IT Professional over 4+ Years. Most of my project are built in VUEJS and HASURA Graphql for backend. I am looking for professional to whom i can learn with and collab for business purposes.
-
-> I am looking for friends who have experienced as a Fullstack developer that are willing to collab for business purposes
-
- 🔭 Anyway I'm currently working in my business website
- 
- 🌱 I’m currently learning in backend infrastructure for small businesses
-
- 👯 I'm looking for funds to finish my business project. Please contact me if you are interested
- 
- ⚡ Fun fact: I have a lot of business idea...
- 
- 😄 Pronouns: Juswa not Joshua
- 
-
-**Welcome to my profile, You can follow me if my works are interest.**
-
 <a href="https://github.com/acatzk"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acatzk&theme=default&hide=css,html" /></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=acatzk&&show_icons=true&theme=default&line_height=27)](https://maxbase.org)
 
 <!--
