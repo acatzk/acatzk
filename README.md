@@ -1,4 +1,4 @@
-<a href="https://github.com/acatzk"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acatzk&theme=default&hide=css,html" /></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=acatzk&&show_icons=true&theme=default&line_height=27)](https://maxbase.org)
+<a href="https://github.com/acatzk"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acatzk&theme=dark&hide=css,html" /></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=acatzk&&show_icons=true&theme=dark&line_height=27)](https://maxbase.org)
 
 <!--
 
